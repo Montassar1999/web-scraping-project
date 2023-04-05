@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "sweetalert": "^2.1.2"
+  }
+}
